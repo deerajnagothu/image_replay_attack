@@ -6,7 +6,8 @@ import os
 
 path = "./snaps"
 files = os.listdir(path)
-print files
+print(files)
+
 
 
 
